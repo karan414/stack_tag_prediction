@@ -1,2 +1,5 @@
 # stack_tag_prediction
-Predicting the StackOverflow Questions tags
+
+**Dataset**: Facebook Recruiting III - Keyword Extraction\n
+**Dataset source**:  https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
+
